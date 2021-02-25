@@ -12,7 +12,7 @@ You can launch up to 5 processes.
 
 For each process, open a terminal and type the following command.
 
-`go run main.go [process ID]`
+`go run main.go --ID=[process ID]`
 
 Please replace `[process ID]` with an integer between 0 and 4. This integer is used to read the configuration file.
 
